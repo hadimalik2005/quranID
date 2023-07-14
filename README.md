@@ -4,9 +4,9 @@ QuranID is a project that aims to provide an audio-based identification system f
 
 ## Features
 
-- Audio recognition using the Levenshtein distance algorithm
+- Audio recognition using the sounddevice and soundfile python libraries
 - Integration with Google Cloud's speech-to-text APIs for audio transcription
-- Matching audio transcriptions with the Quranic verses using textual analysis
+- Matching audio transcriptions with the Quranic verses using the Levenshtein distance algorithm
 - Python implementation
 
 ## Requirements
