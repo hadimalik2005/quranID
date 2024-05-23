@@ -1,4 +1,4 @@
-# QuranID
+# quranID
 
 ## Description
 
