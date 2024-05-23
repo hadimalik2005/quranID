@@ -1,5 +1,7 @@
 # QuranID
 
+## Description
+
 QuranID is a project that aims to provide an audio-based identification system for Quranic verses. Given a user audio input of a verse, the system transcribes the verse and matches it with the closest corresponding verse in the Quran.
 
 ## Features
